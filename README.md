@@ -1,34 +1,27 @@
-**Weather Dashboard**
-A web application that provides real-time weather information for any city using the OpenWeatherMap API.
+# 🌤️ Weather Dashboard
 
-Features
-Search for current weather conditions by city name.
+A sleek web application that provides **real-time weather information** for any city using the [OpenWeatherMap API](https://openweathermap.org/api).
 
-Displays temperature, humidity, wind speed, and weather description.
+---
 
-Responsive design suitable for various devices.
+## ✨ Features
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript
+- 🔍 Search weather by city name
+- 🌡️ Displays temperature, humidity, wind speed, and weather description
+- 📱 Responsive design for mobile and desktop
+- ⚙️ Simple UI built with HTML, CSS, and JavaScript
 
-API: OpenWeatherMap API
+---
 
-Installation
-Clone the repository:
-git clone https://github.com/kunal-Singh01/Weather_Dashboard.git
+## 🧰 Tech Stack
 
-Navigate to the project directory:
-cd Weather_Dashboard
+- **Frontend:** HTML, CSS, JavaScript  
+- **API:** OpenWeatherMap API
 
-Open index.html in your preferred web browser.
+---
 
-Usage
-Enter the name of the city you wish to check the weather for.
+## 🚀 Installation
 
-Click the "Search" button.
-
-View the current weather details displayed on the screen.
-
-
-License
-This project is licensed under the MIT License.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kunal-Singh01/Weather_Dashboard.git
