@@ -1,4 +1,4 @@
-Weather Dashboard
+**Weather Dashboard**
 A web application that provides real-time weather information for any city using the OpenWeatherMap API.
 
 Features
